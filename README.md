@@ -41,3 +41,8 @@ Identified channel-level differences in cost efficiency and conversion behavior.
 ## Purpose
 
 This project demonstrates skills in data cleaning, KPI development, statistical analysis, and machine learning for marketing analytics.
+
+## Citations
+
+https://scikit-learn.org/stable/index.html
+ChatGPT
