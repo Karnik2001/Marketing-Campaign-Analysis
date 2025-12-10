@@ -8,7 +8,7 @@ The dataset contained inconsistent formatting, duplicates, and missing values. T
 
 ## Key Steps
 
-- Data Cleaning: Standardized dates, corrected channel names, handled missing values, removed duplicates.
+- ## Data Cleaning: Standardized dates, corrected channel names, handled missing values, removed duplicates.
 
 - Feature Engineering: Calculated CTR, CPC, CPA, and Conversion Rate.
 
